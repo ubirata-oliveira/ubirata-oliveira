@@ -85,7 +85,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/ubirata-oliveira">
+      <a href="https://github.com/ubirata-oliveira/todo-list-spring-boot-java">
         <b>Todo List API</b>
       </a>
     </td>
@@ -101,7 +101,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/ubirata-oliveira">
+      <a href="https://github.com/paulogm15/dondepp">
         <b>Dondepp</b>
       </a>
     </td>
