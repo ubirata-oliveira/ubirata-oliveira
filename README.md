@@ -1,7 +1,7 @@
 <h1 align="center">Ubiratã Oliveira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=90CAF9&center=true&vCenter=true&width=900&lines=Java+Developer+%7C+QA+Engineer;Analista+e+Desenvolvedor+de+Sistemas;Pós-Graduando+em+MBA+de+IA+para+Negócios;Backend+Development+%7C+Quality+Assurance+%7C+APIs+REST" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=90CAF9&center=true&vCenter=true&width=850&lines=Java+Developer+%7C+Backend+Developer;Analista+e+Desenvolvedor+de+Sistemas;MBA+em+IA+para+Negocios;APIs+REST+%7C+Spring+Boot+%7C+Quality+Focus" />
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@
 
 <p align="center">
 
-<a href="mailto:seu-email@gmail.com">
+<a href="mailto:ubiratarodrigues7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-90caf9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
